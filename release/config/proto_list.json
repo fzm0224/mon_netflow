@@ -1,0 +1,4 @@
+[
+	{"proto_name":"oicq", "lib_name":"liboicq.so", "func_name":"oicq"},
+	{"proto_name":"http", "lib_name":"libhttp.so", "func_name":"http"}
+]
